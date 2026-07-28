@@ -231,3 +231,5 @@ Expected score for the included mock data: **Medium**.
 - **For PMs:** Demonstrates operational problem framing, explainable qualification rules, measurable outcomes, and human-control boundaries.
 - **For EMs:** Demonstrates model/tool orchestration, separation of concerns, audit traces, and a clear path from prototype to production.
 - **For SWEs:** Demonstrates JSON-based function calling, modular tool dispatch, deterministic business logic, and explicit reliability gaps to address.
+
+---
